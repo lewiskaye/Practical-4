@@ -11,7 +11,7 @@ namespace Practical_4
         static void Main(string[] args)
         {
             //This is a test comment
-
+            //Comment 2
         }
     }
 }
