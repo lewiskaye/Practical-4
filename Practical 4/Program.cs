@@ -12,6 +12,7 @@ namespace Practical_4
         {
             //This is a test comment
             //Comment 2
+            Console.WriteLine("This is a new feature :)");
         }
     }
 }
